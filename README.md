@@ -2,7 +2,7 @@
 Collection of Basic Python Practice 
 
 
-# 🧠 Python Practice Assignments  
+# 🧠 Python Practice 
 📁 **Collection of Basic Python Practice**  
 
 Welcome to my Python Practice Repository! 👋
